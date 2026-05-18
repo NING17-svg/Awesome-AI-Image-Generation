@@ -12,6 +12,7 @@ Explore state-of-the-art models for image generation, then discover useful onlin
 
 ## 🛠️ Tools
 
+- [ClearCrowds](https://clearcrowds.com/) — AI photo cleanup editor for removing crowds, unwanted objects, clutter, and other distractions with presets and natural-language prompts.
 - [NanoEditor](https://nanoeditor.app) — Free AI image generator and editor supporting text-to-image, image-to-image, and online editing.
 - [Pixlr](https://pixlr.com/) — Modern AI-powered online photo editor offering background removal, transparent images and one-click smart edits.
 - [Fotor](https://www.fotor.com/) — Free online AI photo editor for text commands, upscaling, style transfer and batch auto editing.
