@@ -18,6 +18,7 @@ Explore state-of-the-art models for image generation, then discover useful onlin
 - [Canva](https://www.canva.com/ai-image-generator/) — AI Image Generator and photo editing suite enabling text-to-image, DALL·E-style generation and easy design workflows.
 - [DeepAI Image Editor](https://deepai.org/machine-learning-model/image-editor) — Upload images or use a URL and edit them with AI via simple prompts in a free web tool.
 - [PicWish](https://picwish.com/) — Online AI photo editor focused on removing backgrounds, unblurring images and enhancing product-style visuals with ease.
+- [LandscapioAI](https://www.landscapioai.com/) — AI landscape design generator that turns outdoor photos, sketches, and prompts into realistic garden and yard design concepts.
 
 ---
 
