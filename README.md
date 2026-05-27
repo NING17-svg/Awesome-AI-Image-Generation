@@ -19,6 +19,8 @@ Explore state-of-the-art models for image generation, then discover useful onlin
 - [DeepAI Image Editor](https://deepai.org/machine-learning-model/image-editor) — Upload images or use a URL and edit them with AI via simple prompts in a free web tool.
 - [PicWish](https://picwish.com/) — Online AI photo editor focused on removing backgrounds, unblurring images and enhancing product-style visuals with ease.
 
+- [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old and damaged photos. Repairs scratches, fading, tears, and colorizes B&W images automatically.
+
 ---
 
 ## 📌 Contribute
