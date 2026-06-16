@@ -9,9 +9,11 @@ Explore state-of-the-art models for image generation, then discover useful onlin
 - [GPT-4o](https://openai.com/index/introducing-4o-image-generation/) — A multimodal model that natively supports image generation and editing along with text and image input.  
 - [FLUX.1 Kontext](#) — A flow-matching AI model family for unified text-to-image and image-to-image editing, optimized for iterative, context-aware modifications.  
 - [Nano Banana](#) — An advanced image-editor model known for ultra-fast results, strong character consistency and natural-language image edits.  
+- [ByteDance Seedream 5.0/4.5/4.0](https://seedream4.video/) — ByteDance's state-of-the-art image generation models; Seedream 5.0 ranked #1 in AI Image Arena, supporting up to 10 reference images for style fusion and complex prompt adherence.
 
 ## 🛠️ Tools
 
+- [Seedream AI Studio](https://seedream4.video/) — Multi-model AI image generator with Seedream 5.0/4.5/4.0 access, one-click image-to-video via Kling 2.1, and a free tier. No API key required.
 - [NanoEditor](https://nanoeditor.app) — Free AI image generator and editor supporting text-to-image, image-to-image, and online editing.
 - [Pixlr](https://pixlr.com/) — Modern AI-powered online photo editor offering background removal, transparent images and one-click smart edits.
 - [Fotor](https://www.fotor.com/) — Free online AI photo editor for text commands, upscaling, style transfer and batch auto editing.
