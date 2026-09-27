@@ -13,6 +13,7 @@ Explore state-of-the-art models for image generation, then discover useful onlin
 ## 🛠️ Tools
 
 - [NanoEditor](https://nanoeditor.app) — Free AI image generator and editor supporting text-to-image, image-to-image, and online editing.
+- [Raphael](https://raphael.app) — Free unlimited AI image generator with intelligent multi-model routing.
 - [Pixlr](https://pixlr.com/) — Modern AI-powered online photo editor offering background removal, transparent images and one-click smart edits.
 - [Fotor](https://www.fotor.com/) — Free online AI photo editor for text commands, upscaling, style transfer and batch auto editing.
 - [Canva](https://www.canva.com/ai-image-generator/) — AI Image Generator and photo editing suite enabling text-to-image, DALL·E-style generation and easy design workflows.
